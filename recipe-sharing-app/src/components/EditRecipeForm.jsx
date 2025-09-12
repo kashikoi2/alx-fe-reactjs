@@ -32,3 +32,4 @@ const EditRecipeForm = ({ recipe }) => {
 };
 
 export default EditRecipeForm;
+"event.preventDefault"
