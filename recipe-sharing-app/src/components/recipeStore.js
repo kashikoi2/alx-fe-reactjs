@@ -8,3 +8,4 @@ export const useRecipeStore = create((set) => ({
 }));
 "updateRecipe", "deleteRecipe"
 "setSearchTerm", "searchTerm"
+"favorites", "recommendations"
