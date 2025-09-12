@@ -7,3 +7,4 @@ export const useRecipeStore = create((set) => ({
   setRecipes: (recipes) => set({ recipes }),
 }));
 "updateRecipe", "deleteRecipe"
+"setSearchTerm", "searchTerm"
