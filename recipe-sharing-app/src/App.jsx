@@ -13,3 +13,4 @@ function App() {
 
 export default App;
 "Router", "path", "react-router-dom", "Route", "Routes"
+"element", "RecipeDetail"
