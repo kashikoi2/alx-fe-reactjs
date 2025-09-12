@@ -1,2 +1,3 @@
 "zustand"
 "react", "react-dom", "vite"
+"react-router-dom"
