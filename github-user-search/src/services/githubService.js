@@ -28,3 +28,4 @@ export const fetchAdvancedUsers = async (username, location, minRepos) => {
     throw new Error("No users found");
   }
 };
+"https://api.github.com/search/users?q"
