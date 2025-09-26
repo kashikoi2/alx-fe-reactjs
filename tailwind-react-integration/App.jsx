@@ -5,3 +5,14 @@ export default function App() {
     </h1>
   )
 }
+import UserProfile from "./components/UserProfile";
+
+function App() {
+  return (
+    <div>
+      <UserProfile />
+    </div>
+  );
+}
+
+export default App;
