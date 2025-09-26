@@ -35,3 +35,4 @@ function UserProfile() {
 
 export default UserProfile;
 "sm:p-4"
+"sm:w-24", "sm:h-24"
