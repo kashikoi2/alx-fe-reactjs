@@ -34,3 +34,4 @@ function UserProfile() {
 }
 
 export default UserProfile;
+"sm:p-4"
