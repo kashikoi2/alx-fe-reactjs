@@ -47,3 +47,4 @@ function HomePage() {
 }
 
 export default HomePage;
+"grid-cols-1"
