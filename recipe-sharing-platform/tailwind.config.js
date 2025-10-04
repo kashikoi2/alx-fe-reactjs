@@ -6,3 +6,4 @@ module.exports = {
   },
   plugins: [],
 }
+"./public/index.html"
