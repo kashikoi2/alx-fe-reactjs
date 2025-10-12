@@ -49,3 +49,4 @@ export default function App() {
   <Route path="details" element={<ProfileDetails />} />
   <Route path="settings" element={<ProfileSettings />} />
 </Route>
+["BrowserRouter"]
