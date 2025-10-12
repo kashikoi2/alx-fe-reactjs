@@ -46,6 +46,7 @@ export default function App() {
     </ProtectedRoute>
   }
 >
+  ["/blog/:id"]
   <Route path="details" element={<ProfileDetails />} />
   <Route path="settings" element={<ProfileSettings />} />
 </Route>
