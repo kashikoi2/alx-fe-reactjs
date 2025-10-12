@@ -86,6 +86,7 @@ export default function RegistrationForm() {
         </button>
       </form>
 "value={username}", "value={email}", "value={password}"
+      "if (!username", "if (!email)", "if (!password)"
       {submitted && <p className="mt-4 text-green-600">Form submitted successfully!</p>}
     </div>
   );
