@@ -49,3 +49,4 @@ export default function PostsComponent() {
     </div>
   );
 }
+["cacheTime", "refetchOnWindowFocus", "keepPreviousData"]
