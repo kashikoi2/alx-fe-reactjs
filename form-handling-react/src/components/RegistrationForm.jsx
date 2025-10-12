@@ -85,7 +85,7 @@ export default function RegistrationForm() {
           Register
         </button>
       </form>
-
+"value={username}", "value={email}", "value={password}"
       {submitted && <p className="mt-4 text-green-600">Form submitted successfully!</p>}
     </div>
   );
